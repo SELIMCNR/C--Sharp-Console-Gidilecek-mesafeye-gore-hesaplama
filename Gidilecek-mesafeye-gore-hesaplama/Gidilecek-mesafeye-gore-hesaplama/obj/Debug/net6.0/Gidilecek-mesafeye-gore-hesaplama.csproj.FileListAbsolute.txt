@@ -1,0 +1,15 @@
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\bin\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.exe
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\bin\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.deps.json
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\bin\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.runtimeconfig.json
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\bin\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.dll
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\bin\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.pdb
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.AssemblyInfoInputs.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.AssemblyInfo.cs
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.dll
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\refint\Gidilecek-mesafeye-gore-hesaplama.dll
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.pdb
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\Gidilecek-mesafeye-gore-hesaplama.genruntimeconfig.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\Gidilecek-mesafeye-gore-hesaplama\Gidilecek-mesafeye-gore-hesaplama\obj\Debug\net6.0\ref\Gidilecek-mesafeye-gore-hesaplama.dll
